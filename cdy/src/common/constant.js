@@ -1,0 +1,6 @@
+export const POSX = 'https://threejs.org/examples/textures/cube/Bridge2/posx.jpg'
+export const POSY = 'https://threejs.org/examples/textures/cube/Bridge2/posy.jpg'
+export const POSZ = 'https://threejs.org/examples/textures/cube/Bridge2/posz.jpg'
+export const NEGX = 'https://threejs.org/examples/textures/cube/Bridge2/negx.jpg'
+export const NEGY = 'https://threejs.org/examples/textures/cube/Bridge2/negy.jpg'
+export const NEGZ = 'https://threejs.org/examples/textures/cube/Bridge2/negz.jpg'
